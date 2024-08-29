@@ -9,7 +9,9 @@ El código se encuentra en la carpeta que lleva el mismo nombre en la rama princ
 Adicionalmente, el repositorio realizado por Zhang y Chen se encuentra clonado en esta dirección.
 
 ## Entregables:
-En esta carpeta se puede acceder al paper realizado, además de la presentación realizada. Además, los videos pedidos pueden ser accedidos siguiendo el siguiente link:
+En esta carpeta se puede acceder al paper realizado, además de la presentación realizada. Además, los videos pedidos pueden ser accedidos siguiendo los siguientes links:
+  - Iván Andrés Espinosa:
+  - Edwin Andrés Mora:
 
 # Cita:
 M. Zhang and Y. Chen, “Link prediction based on graph neural networks,”
