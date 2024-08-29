@@ -11,7 +11,7 @@ Adicionalmente, el repositorio realizado por Zhang y Chen se encuentra clonado e
 ## Entregables:
 En esta carpeta se puede acceder al paper realizado, además de la presentación realizada. Además, los videos pedidos pueden ser accedidos siguiendo los siguientes links:
   - Iván Andrés Espinosa: https://youtu.be/dT39H0rMbig
-  - Edwin Andrés Mora:
+  - Edwin Andrés Mora: https://youtu.be/qkrd_1iy8CY
 
 # Cita:
 M. Zhang and Y. Chen, “Link prediction based on graph neural networks,”
