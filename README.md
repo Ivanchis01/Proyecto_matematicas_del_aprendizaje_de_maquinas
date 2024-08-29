@@ -8,6 +8,9 @@ En este repositorio se encuentra el código, la presentación, link al video y r
 El código se encuentra en la carpeta que lleva el mismo nombre en la rama principal. Allí se encontrará el archivo "SEAlforLinkPrediction.ipynb", un archivo realizado en Google Colab donde se adaptó e implementó el framework propuesto por Muhan Zhang y Yixin Chen con el dataset Actor (facilitado por PyTorch_geometric), el cual contiene un grafo donde cada nodo corresponde a un actor y la arista que une dos nodos denota la co-ocurrencia en la misma página de Wikipedia.
 Adicionalmente, el repositorio realizado por Zhang y Chen se encuentra clonado en esta dirección.
 
+## Entregables:
+En esta carpeta se puede acceder al paper realizado, además de la presentación realizada. Además, los videos pedidos pueden ser accedidos siguiendo el siguiente link:
+
 # Cita:
 M. Zhang and Y. Chen, “Link prediction based on graph neural networks,”
 in *Advances in Neural Information Processing Systems*, 2018, pp. 5165–5175.
